@@ -9,17 +9,19 @@ template: common.html
 
 Hello! I'm Tianle Xu (a.k.a. xtlsoft).
 
-Junior 3 student, Information Technology lover.
+Senior 1 student, Information Technology lover.
 
 My accounts:
 
-| Name     | Account                                           |
-| -------- | ------------------------------------------------- |
-| GitHub   | [@xtlsoft](https://github.com/xtlsoft/)           |
-| Mail     | xtl@xtlsoft.top xtlsoft@126.com                   |
-| QQ       | 2317305587                                        |
-| Telegram | [@xtlsoft](https://t.me/xtlsoft)                  |
-| Zhihu    | [@xtlsoft](https://www.zhihu.com/people/xtlsoft/) |
+| Name     | Account                                                        |
+| -------- | -------------------------------------------------------------- |
+| GitHub   | [@xtlsoft](https://github.com/xtlsoft/)                        |
+| Mail     | xtl@xtlsoft.top xtlsoft@126.com                                |
+| QQ       | 2317305587                                                     |
+| Telegram | [@xtlsoft](https://t.me/xtlsoft)                               |
+| Zhihu    | [@xtlsoft](https://www.zhihu.com/people/xtlsoft/)              |
+| Netease  | xtl@xtlsoft.top                                                |
+| Other    | Try searching "@xtlsoft" "xtl@xtlsoft.top" "2317305587@qq.com" |
 
 My Blog:
 
