@@ -20,7 +20,7 @@ My accounts:
 | QQ       | 2317305587                                                     |
 | Telegram | [@xtlsoft](https://t.me/xtlsoft)                               |
 | Zhihu    | [@xtlsoft](https://www.zhihu.com/people/xtlsoft/)              |
-| Netease  | xtl@xtlsoft.top                                                |
+| Netease  | xtlsoft@126.com                                                |
 | Other    | Try searching "@xtlsoft" "xtl@xtlsoft.top" "2317305587@qq.com" |
 
 My Blog:
