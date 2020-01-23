@@ -13,15 +13,15 @@ template: common-zh_cn.html
 
 我的常用账号：
 
-| 名称     | 账号                                                      |
-| -------- | --------------------------------------------------------- |
-| GitHub   | [@xtlsoft](https://github.com/xtlsoft/)                   |
-| Mail     | xtl@xtlsoft.top xtlsoft@126.com                           |
-| QQ       | 2317305587                                                |
-| Telegram | [@xtlsoft](https://t.me/xtlsoft)                          |
-| 知乎     | [@xtlsoft](https://www.zhihu.com/people/xtlsoft/)         |
-| 网易云   | xtlsoft@126.com                                           |
-| 其他     | 尝试搜索 "@xtlsoft" "xtl@xtlsoft.top" "2317305587@qq.com" |
+| 名称     | 账号                                                                                                    |
+| -------- | ------------------------------------------------------------------------------------------------------- |
+| GitHub   | [@xtlsoft](https://github.com/xtlsoft/)                                                                 |
+| Mail     | xtl@xtlsoft.top xtlsoft@126.com                                                                         |
+| QQ       | 2317305587 (注: [见此处](https://blog.xtlsoft.top/read/announcement/tencent-id-being-banned-2020.html)) |
+| Telegram | [@xtlsoft](https://t.me/xtlsoft)                                                                        |
+| 知乎     | [@xtlsoft](https://www.zhihu.com/people/xtlsoft/)                                                       |
+| 网易云   | xtlsoft@126.com                                                                                         |
+| 其他     | 尝试搜索 "@xtlsoft" "xtl@xtlsoft.top" "2317305587@qq.com"                                               |
 
 我的博客：
 
