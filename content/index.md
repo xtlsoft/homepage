@@ -9,7 +9,7 @@ template: common.html
 
 Hello! I'm Tianle Xu (a.k.a. xtlsoft).
 
-Senior 1 student, Information Technology lover.
+Student, Information Technology lover.
 
 My accounts:
 

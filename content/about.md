@@ -5,7 +5,7 @@ template: common.html
 
 # About Me
 
-Tianle Xu, Senior 1 student. Information Technology lover.
+Tianle Xu, student. Information Technology lover.
 
 ## Location
 
@@ -17,16 +17,17 @@ Jiangsu, China
 | -------------------------------------------- | -------------- |
 | Nantong Tongzhou Experimental Primary School | 2010~2016      |
 | Nantong Tongzhou Experimental Middle School  | 2016~2019      |
-| Tongzhou High School                         | 2019~(present) |
+| Tongzhou High School                         | 2019~2022      |
+| Peking University                            | 2022~(present) |
 
 ## Working Experience (Commercial Events)
 
-(Opensource contributes and opensource teams are not included here.)
+(Open-source contributes and open-source teams are not included here.)
 
-| Company (or Team)                         | Status    |
-| ----------------------------------------- | --------- |
-| ACUnion                                   | Suspended |
-| Shijiazhuang "Saisi" Technology Co., Ltd. | Current   |
+| Company (or Team)                               | Status    |
+| ----------------------------------------------- | --------- |
+| ACUnion                                         | Suspended |
+| Shijiazhuang SectoSessions Technology Co., Ltd. | Ended     |
 
 ## Skills
 

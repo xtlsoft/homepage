@@ -9,7 +9,7 @@ template: common-zh_cn.html
 
 您好！ 我是徐天乐 （也作 xtlsoft）。
 
-高一在读学生，热爱计算机。
+大一在读学生，热爱计算机。
 
 我的常用账号：
 
